@@ -20,7 +20,7 @@
 ---
 
 ### 👩🏽‍💻: About Me :
-- 🌞:Currently working as a QA Automation Engineer @ <a href="altoira.com">AltoIRA</a>, looking for Junior Developer roles
+- 🌞: Currently working as a QA Automation Engineer @ <a href="altoira.com">AltoIRA</a>, looking for Junior Developer roles
 - 🎓: Masters in Information Systems and Bachelors in Computer Applications
 - 🏠: Located in Research Triangle Park, North Carolina
 - ✨: Interested in front-end web development
