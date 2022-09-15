@@ -20,10 +20,10 @@
 ---
 
 ### 👩🏽‍💻: About Me :
-- 🌞: Currently working as a QA Automation Engineer @ <a href="altoira.com">AltoIRA</a>, looking for Junior Developer roles
+- 🌞: Currently working as a QA Automation Engineer @ <a href="altoira.com">AltoIRA</a>, looking for Junior Developer roles in React
 - 🎓: Masters in Information Systems and Bachelors in Computer Applications
 - 🏠: Located in Research Triangle Park, North Carolina
-- ✨: Interested in front-end web development
+- ✨: Interested in front-end web development React, HTML, CSS, JavaScript, TypeScript, PostGreSQL, Cypress, PlayWright, Selenium, 
 - ❤️: Enjoys cooking, baking and volunteering oppurtunites
 - 💡: Always an apprentice in learning and fine tuning existing skills
 - 🏋️‍🧘🏽‍♀️: Always up for challenges
@@ -40,7 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
