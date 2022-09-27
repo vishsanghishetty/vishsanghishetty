@@ -23,7 +23,7 @@
 - 🌞: Currently working as an QA Automation Engineer @ <a href="altoira.com">AltoIRA</a>, looking for Junior Developer roles in React
 - 🎓: Masters in Information Systems and Bachelors in Computer Applications
 - 🏠: Located in Research Triangle Park, North Carolina
-- ✨: Experienced in front-end web development (Angular, React, HTML, CSS, JavaScript, TypeScript, Node) Java, Python, MySQL, PostGreSQL, Cypress, PlayWright, Selenium, TestNG, Locust, JMeter, Mocha framework with SuperTest & Chai libraries
+- ✨: Experienced in front-end web development (Angular, React, HTML, CSS, JavaScript, TypeScript, Node) Java, Python, MySQL, PostGreSQL, Cypress, PlayWright, Selenium, TestNG, Locust, JMeter, Mocha framework, SuperTest & Chai libraries
 - ❤️: Enjoys cooking, baking and volunteering oppurtunites
 - 💡: Always an apprentice in learning and fine tuning existing skills
 - 🏋️‍🧘🏽‍♀️: Always up for challenges
