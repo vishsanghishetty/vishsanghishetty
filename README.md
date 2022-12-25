@@ -24,7 +24,7 @@
 - 🎓: Masters in Information Systems and Bachelors in Computer Applications
 - 🏠: Located in Research Triangle Park, North Carolina
 - ✨: Experienced in front-end web development (Angular, React, HTML, CSS, JavaScript, TypeScript, Node) Java, Python, MySQL, PostGreSQL, Cypress, PlayWright, Selenium, TestNG, Locust, JMeter, Mocha framework, SuperTest & Chai libraries
-- ❤️: Enjoys cooking, baking and volunteering oppurtunites
+- ❤️: Enjoys cooking, baking and volunteering opportunities
 - 💡: An apprentice in learning and fine tuning my existing skills
 - 🏋️‍🧘🏽‍♀️: Always up for challenges
 
