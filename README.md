@@ -6,10 +6,10 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/vishalis/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
     </a>
     <a href="https://vishalis.netlify.app/">
-      <img src="https://img.shields.io/badge/-Personal%20Website-brightgreen?style=for-the-badge" alt="Personal Website"/>
+      <img src="https://img.shields.io/badge/-Personal%20Website-brightgreen?style=for-the-badge" alt="Personal Website" target="_blank"/>
     </a>
   </div>
   <div>
