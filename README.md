@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/vishalis/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="vishalis">
+    <a href="(https://vishalis.netlify.app/">
       <img src="https://img.shields.io/badge/-Personal%20Website-brightgreen?style=for-the-badge" alt="Personal Website"/>
     </a>
   </div>
