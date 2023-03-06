@@ -20,7 +20,7 @@
 ---
 
 ### 👩🏽‍💻: About Me :
-- 🌞: Currently working as a QA Automation Engineer @ <a href="https://www.altoira.com/">AltoIRA</a>
+- 🌞: Currently working as a Software Quality Engineer @ <a href="https://www.ansible.com/products/automation-platform/">Red Hat </a>
 - 🎓: Masters in Information Systems and Bachelors in Computer Applications
 - 🏠: Located in Research Triangle Park, North Carolina
 - ✨: Experienced in front-end web development (Angular, React, HTML, CSS, JavaScript, TypeScript, Node) Java, Python, MySQL, PostGreSQL, Cypress, PlayWright, Selenium, TestNG, Locust, JMeter, Mocha framework, SuperTest & Chai libraries
