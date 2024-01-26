@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://emojipedia.org/apple/ios-16.4/woman-technologist-light-skin-tone.png" width="100"/>
+  <img src="👩🏼‍💻" width="100"/>
   <h3>Hey there</h1>
   <h3>This is Vishali Sanghishetty</h2>
   <p>pronounced as `Vee-sha-lee`</p>
