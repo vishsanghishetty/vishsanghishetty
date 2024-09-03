@@ -20,12 +20,12 @@
 ---
 
 ### 👩🏽‍💻: About Me :
-- 🌞: Currently working as an SWE @ <a href="https://www.ansible.com/products/automation-platform/">Ansible by Red Hat </a>
-- 🎓: Masters in Information Systems and Bachelors in Computer Applications
+- 🌞: Currently working as an SWE @ <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift/">OpenShift Experiences Engineering</a>
+- 🎓: Masters in Information Systems and Bachelor in Computer Applications
 - 🏠: Located in Research Triangle Park, North Carolina
 - ✨: Experienced in front-end web development (Angular, React, HTML, CSS, JavaScript, TypeScript, Node) Java, Python, MySQL, PostGreSQL, Cypress, PlayWright, Selenium, TestNG, Locust, JMeter, Mocha framework, SuperTest & Chai libraries
-- ❤️: Enjoys cooking, baking and volunteering opportunities
-- 💡: An apprentice in learning and fine tuning my existing skills
+- ❤️: Enjoys cooking, baking, and volunteering opportunities
+- 💡: An apprentice in learning and fine-tuning my existing skills
 - 🏋️‍🧘🏽‍♀️: Always up for challenges, learning is about confronting challenges to make progress, not perfection
 
 ---
