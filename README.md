@@ -33,7 +33,7 @@ I'm continuously fine-tuning my skills, seeing challenges as stepping stones for
 I enjoy cooking, baking, and giving back to the community through volunteering.
 
 🏋️‍♀️ **Mantra**:  
-Driven by curiosity and resilience, learning is about embracing challenges and making daily meaningful progress.
+Driven by curiosity and resilience, I believe that learning is about embracing challenges and making daily meaningful progress.
 
 ### :toolbox: Languages and Tools :
 
