@@ -20,19 +20,25 @@
 ---
 ### 👩🏽‍💻 **About Me**
 🌞 **Current Role**: Software Engineer @ OpenShift ACM Console
-🎓 **Education**: Master’s in Information Systems | Bachelor’s in Computer Applications  
+
+🎓 **Education**: Master’s in Information Systems | Bachelor’s in Computer Applications 
+
 🏡 **Location**: Research Triangle Park, North Carolina  
 
 ✨ **Technical Toolkit**:  
+
 Experienced in front-end development (Angular, React, HTML, CSS, JavaScript, TypeScript, Node.js) and well-versed in back-end and testing technologies, including Java, Python, MySQL, PostgreSQL, Cypress, Playwright, Selenium, TestNG, Locust, JMeter, Mocha, Jest, SuperTest, and Chai.
 
 💡 **Learning Mindset**:  
+
 I'm continuously fine-tuning my skills, seeing challenges as stepping stones for growth rather than benchmarks of perfection.
 
 ❤️ **Beyond Code**:  
+
 I enjoy cooking, baking, and giving back to the community through volunteering.
 
 🏋️‍♀️ **Mantra**:  
+
 Driven by curiosity and resilience, I believe that learning is about embracing challenges and making daily meaningful progress.
 
 ### :toolbox: Languages and Tools :
