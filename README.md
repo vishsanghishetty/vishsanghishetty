@@ -19,7 +19,7 @@
 
 ---
 ### 👩🏽‍💻 **About Me**
-🌞 **Current Role**: Software Engineer @ OpenShift Experiences Engineering  
+🌞 **Current Role**: Software Engineer @ OpenShift ACM Console
 🎓 **Education**: Master’s in Information Systems | Bachelor’s in Computer Applications  
 🏡 **Location**: Research Triangle Park, North Carolina  
 
