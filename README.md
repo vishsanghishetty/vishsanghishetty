@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://www.emojiall.com/images/240/emojidex/1f469-1f3fd-200d-1f4bb.png" width="100"/>
   <h3>Hey there</h1>
-  <h3>This is Vishali Sanghishetty</h2>
+  <h3>This is Vishali Kamenani</h2>
   <p>pronounced as `Vee-sha-lee`</p>
 
   <div id="badges">
