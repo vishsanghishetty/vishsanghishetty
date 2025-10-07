@@ -19,7 +19,7 @@
 
 ---
 ### 👩🏽‍💻 **About Me**
-🌞 **Current Role**: Software Engineer @ OpenShift ACM Console
+🌞 **Current Role**: Software Engineer @ Fleet Console - Hybrid Cloud Management
 
 🎓 **Education**: Master’s in Information Systems | Bachelor’s in Computer Applications 
 
